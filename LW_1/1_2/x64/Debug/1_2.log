@@ -1,0 +1,12 @@
+﻿  main.c
+C:\Users\user\source\repos\3-sem\LW_1\1_2\main.c(64,9): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\user\source\repos\3-sem\LW_1\1_2\main.c(71,17): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\user\source\repos\3-sem\LW_1\1_2\main.c(112,17): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\user\source\repos\3-sem\LW_1\1_2\main.c(141,17): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\user\source\repos\3-sem\LW_1\1_2\main.c(152,41): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\source\repos\3-sem\LW_1\1_2\main.c(152,79): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\source\repos\3-sem\LW_1\1_2\main.c(152,119): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\source\repos\3-sem\LW_1\1_2\main.c(161,13): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\user\source\repos\3-sem\LW_1\1_2\main.c(166,9): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\user\source\repos\3-sem\LW_1\1_2\main.c(169,5): warning C4098: main: функция типа "void", возвращающая значение
+  1_2.vcxproj -> C:\Users\user\source\repos\3-sem\LW_1\1_1\x64\Debug\1_2.exe

@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\user\source\repos\3-sem\LW_1\1_1\main.c(33,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\3-sem\LW_1\1_1\main.c(76,9): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\user\source\repos\3-sem\LW_1\1_1\main.c(137,13): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\user\source\repos\3-sem\LW_1\1_1\main.c(142,9): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\user\source\repos\3-sem\LW_1\1_1\main.c(145,5): warning C4098: main: функция типа "void", возвращающая значение
+  1_1.vcxproj -> C:\Users\user\source\repos\3-sem\LW_1\1_1\x64\Debug\1_1.exe
