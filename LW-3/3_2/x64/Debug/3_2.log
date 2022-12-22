@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\user\source\repos\3-sem\LW-3\3_2\main.c(66,23): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  3_2.vcxproj -> C:\Users\user\source\repos\3-sem\LW-3\3_1\x64\Debug\3_2.exe
